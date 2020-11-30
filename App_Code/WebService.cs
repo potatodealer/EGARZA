@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.Script.Services;
 using System.Web.Services;
 
-[WebService(Namespace = "http://tempuri.org/")]
+[WebService(Namespace = "https://tempuri.org/")]
 [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
 // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
 [System.Web.Script.Services.ScriptService]
