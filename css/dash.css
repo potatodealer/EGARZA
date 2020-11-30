@@ -1,0 +1,7 @@
+iframe {
+    height: 1000px;
+    width: 100%;
+    border: 4px solid royalblue;
+    display: block;
+    margin: auto;
+}

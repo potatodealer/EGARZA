@@ -1,0 +1,11 @@
+TODO
+[√] Simplify homepage
+[√] Add Contact Me thingy
+[√] Add form to send email
+[√] Add social media links
+[√] Add Services info index
+[√] Fix login aspx
+[ ] Dashboard - Make manageable
+[√] Add videos
+[ ] Integrate tables
+[ ] Host
